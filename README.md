@@ -36,9 +36,7 @@ La combinación de **AES-128** (cifrado simétrico) y **RSA-2048** (cifrado asim
 19 3D E3 BE A0 F4 E2 2B 9A C6 8D 2A E9 F8 48 08  
 
 ### 📥 **Cómo descargar/convertir a PDF**  
-1. **Método rápido (online)**:  
-   - Copia el texto y pégalo en [Dillinger](https://dillinger.io/) o [Markdown to PDF](https://md2pdf.netlify.app/).  
-   - Exporta a PDF.  
+ 
 
 2. **Usando Pandoc (local)**:  
    ```bash
