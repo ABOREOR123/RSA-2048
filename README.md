@@ -1,5 +1,4 @@
 # 📜 Reporte: Explicación Matemática de AES-128 + RSA-2048  
-**Autor**: DeepSeek Chat  
 **Fecha**: 11 de junio de 2025  
 
 ---
